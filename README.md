@@ -1,3 +1,5 @@
+#### ⭐ star this repo if you like it
+
 # Rive Landing Page
 
 An interactive Splash screen for any project to increase the experience of users
